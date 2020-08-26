@@ -86,7 +86,8 @@ Se não possuir o GIT clique no botão CODE e baixe no formato .zip
 1. Abra um terminal **(cmd)** na pasta **server**
 2. O terminal irá abrir com o diretório `Diretorio onde o arquivo está salvo\Proffy-NLW02\server`
 3. Digite o comando `npm install` (Esse comando irá instalar os pacotes necessários para executar o servidor)
-4. Após finalizar a instalação, digite o comando `npm start`, se a mensagem `> server@1.0.0 start` aparecer significa que o servidor está sendo executado.
+4. Após finalizar a instalação, digite o comando `knex:migrate`, se a mensagem `Batch 1 run: 4 migrations` aparecer, significa que o banco de dados foi criado.
+5. Agora, digite o comando `npm start`, se a mensagem `> server@1.0.0 start` aparecer significa que o servidor está sendo executado.
 
 **OBS: Não feche essa janela do prompt de comando**
 
@@ -96,6 +97,8 @@ Se não possuir o GIT clique no botão CODE e baixe no formato .zip
 2. O terminal irá abrir com o diretório `Diretorio onde o arquivo está salvo\Proffy-NLW02\web`
 3. Digite o comando `npm install` (Esse comando irá instalar os pacotes necessários para executar a aplicação web)
 4. Após finalizar a instalação, digite o comando `npm start`. Agora aguarde alguns segundos e a aplicação web será aberta em seu navegador padrão.
+
+Agora basta explorar a aplicação WEB :wink:
 
 ### Executando a aplicação Mobile
 
