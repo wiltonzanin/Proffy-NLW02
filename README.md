@@ -92,7 +92,10 @@ Se não possuir o GIT clique no botão CODE e baixe no formato .zip
 
 ### Executando a aplicação Web
 
-:construction: Em construção :construction:
+1. Abra um terminal **(cmd)** na pasta **web**
+2. O terminal irá abrir com o diretório `Diretorio onde o arquivo está salvo\Proffy-NLW02\web`
+3. Digite o comando `npm install` (Esse comando irá instalar os pacotes necessários para executar a aplicação web)
+4. Após finalizar a instalação, digite o comando `npm start`. Agora aguarde alguns segundos e a aplicação web será aberta em seu navegador padrão.
 
 ### Executando a aplicação Mobile
 
