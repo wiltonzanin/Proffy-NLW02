@@ -52,7 +52,7 @@ Screenshots das telas :construction:
 
 ### :computer: Web
 
-<img src='assets-github/CapaCapaWeb.svg'>
+<img src='assets-github/ProffyWebVersao1.gif'>
 
 Screenshots das telas :construction:
 
