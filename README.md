@@ -81,20 +81,20 @@ Se não possuir o GIT clique no botão CODE e baixe no formato .zip
 
 :construction: Em construção :construction:
 
-### 1. Executando o Server
+### Executando o Server
 
 1. Abra um terminal **(cmd)** na pasta **server**
 2. O terminal irá abrir com o diretório `Diretorio onde o arquivo está salvo\Proffy-NLW02\server`
 3. Digite o comando `npm install` (Esse comando irá instalar os pacotes necessários para executar o servidor)
-4. Após finalizar a instalação, digite o comnado `npm start`, se a mensagem `> server@1.0.0 start` aparecer significa que o servidor está sendo executado.
+4. Após finalizar a instalação, digite o comando `npm start`, se a mensagem `> server@1.0.0 start` aparecer significa que o servidor está sendo executado.
 
 **OBS: Não feche essa janela do prompt de comando**
 
-### 2. Executando a aplicação Web
+### Executando a aplicação Web
 
 :construction: Em construção :construction:
 
-### 3. Executando a aplicação Mobile
+### Executando a aplicação Mobile
 
 :construction: Em construção :construction:
 
