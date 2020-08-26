@@ -97,6 +97,8 @@ Este projeto foi desenvolvido em React, ou seja, para executar o mesmo é necess
 
 ### Versão 1.0
 
+A versão 1.0 consiste na versão construida durante a semana Next Level Week, ou seja, a versão mais basica da aplicação com somente as funcões principais.
+
 :construction: Em construção :construction:
 
 ### Versão 2.0
