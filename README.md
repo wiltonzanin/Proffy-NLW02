@@ -69,15 +69,15 @@ Screenshots das telas :construction:
 
 Este projeto foi desenvolvido em React, ou seja, para executar o mesmo é necessário que você tenha instalado o [Node.JS](https://nodejs.org/en/).
 
-Para pode executar a aplicação na sua versão mobile é necessário que após a instalação do Node.js você instale o pacote **Expo** globalmente no seu computador, seguindo os seguintes passos:
+Para poder executar a aplicação na sua versão mobile é necessário que após a instalação do Node.js você instale o pacote **Expo** globalmente em seu computador, seguindo os passos:
 
-1. Abra o prompt de comando (cmd)
-2. Digite o seguinte comando `npm install expo-cli --global`
+1. Abra o prompt de comando **(cmd)**
+2. Digite o comando `npm install expo-cli --global`
 3. Espere a instalação finalizar e feche a janela do prompt de comando.
 
 Pronto, agora você pode utilizar os comandos do Expo em qualquer projeto existente em sua maquina.
 
-Com o Expo instalado em seu computador, instale o app do Expo em seu celular para poder executar o projeto mobile Android ou IOS
+Com o Expo instalado em seu computador, instale o app do Expo em seu celular para executar o projeto mobile Android ou IOS.
 
 [Expo Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
 
@@ -123,10 +123,10 @@ Agora basta explorar a aplicação WEB :wink:
 3. Digite o comando `npm install` (Esse comando irá instalar os pacotes necessários para executar a aplicação mobile)
 4. Após finalizar a instalação, digite o comando `expo start`. Agora aguarde alguns segundos e será aberta uma janela do **Expo** em seu navegador padrão.
 
-Quando a janela do **Expo** abrir, pegue o seu celular e siga os seguintes passos:
+Quando a janela do **Expo** abrir, pegue o seu celular e siga os passos:
 
 1. Abra o app do Expo no seu celular
-2. Toque na opção Scan QR Code
+2. Toque na opção **Scan QR Code**
 3. Escaneie o QR code que aparece na **janela aberta do Expo**
 4. Aguarde a aplicação mobile abrir
 
