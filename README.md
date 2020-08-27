@@ -145,15 +145,15 @@ A versão 1.0 consiste na versão construida durante a semana Next Level Week, o
 A versão 2.0 é a aplicação básica porém com mais funcionalidades para que fique mais fácil, seguro e prático de se usar a aplicação.
 Essa versão é um desafio da **NLW 02** para colocar em prática os conhecimentos adquiridos ao longo da semana, segue abaixo a lista com as funcionalidades novas em relação a versão 1.0:
 
-- [] Layout da aplicação
-- [] Autenticação de usuários
-- [] Recuperação de senhas
-- [] Perfil do proffy
-- [] Splash Screen no React Native com Expo
-- [] Paginação na listagem de proffys
-- [] Exibindo horários disponíveis dos proffys
-- [] Salvando seus proffys favoritos
-- [] Logout da aplicação
-- [] Deploy da aplicação
+- [ ] Layout da aplicação
+- [ ] Autenticação de usuários
+- [ ] Recuperação de senhas
+- [ ] Perfil do proffy
+- [ ] Splash Screen no React Native com Expo
+- [ ] Paginação na listagem de proffys
+- [ ] Exibindo horários disponíveis dos proffys
+- [ ] Salvando seus proffys favoritos
+- [ ] Logout da aplicação
+- [ ] Deploy da aplicação
 
 :construction: Em construção :construction:
