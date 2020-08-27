@@ -136,9 +136,7 @@ Agora basta explorar a aplicação Mobile :wink:
 
 ### Versão 1.0
 
-A versão 1.0 consiste na versão construida durante a semana Next Level Week, ou seja, a versão mais basica da aplicação com somente as funcões principais.
-
-:construction: Em construção :construction:
+A versão 1.0 consiste na versão construida durante a semana Next Level Week, ou seja, a versão mais básica da aplicação com somente as funções principais, ou seja, sem os desafios propostos na versão 2.0.
 
 ### Versão 2.0
 
