@@ -69,7 +69,7 @@ Screenshots das telas :construction:
 
 Este projeto foi desenvolvido em React, ou seja, para executar o mesmo é necessário que você tenha instalado o [Node.JS](https://nodejs.org/en/).
 
-Para poder executar a aplicação na sua versão mobile é necessário que após a instalação do Node.js você instale o pacote **Expo** globalmente em seu computador, seguindo os passos:
+Para poder executar a aplicação na sua versão mobile é necessário que após a instalação do Node.js, você instale o pacote [Expo](https://expo.io/) globalmente em seu computador, seguindo os passos:
 
 1. Abra o prompt de comando **(cmd)**
 2. Digite o comando `npm install expo-cli --global`
